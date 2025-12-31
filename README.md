@@ -1,11 +1,11 @@
 # orBIT 👁️‍🗨️
-> **"If the logic fails, the BIT crashes the universe."**
+> **"If the logic fails, the BIT crashes the universe. Said by no one :)"**
 
-## 📜 The Prophecy (Project Overview)
+## 📜 Project Overview
 
-**orBIT** is a Full-Stack **Entropy Management System** (IT Support Portal) designed to centralize the chaos of technical operations.
+**orBIT** is a Full-Stack **Entropy Management System** (IT Support Portal) designed to centralize the chaos of technical operations. (A Support Ticketing System just like Jira, ServiceNow, BMC Helix/Remedy, Freshservice, Zendesk and more!)
 
-In a digital universe defined by entropy, data does not simply flow—it floods. **orBIT** serves as the **Boolean Gatekeeper**, standing between the System Administrator's logic (**or**) and the relentless stream of user errors and raw data (**BIT**).
+In a digital universe defined by entropy, data does not simply flow, it FLOODS. **orBIT** serves as the **Boolean Gatekeeper** (True or False logic), standing between the System Administrator's logic (**or**) and the relentless stream of user errors and raw data (**BIT**).
 
 This system enforces strict order through **Object-Oriented Logic** and **Typed Contracts**, ensuring that no hardware goes missing and no critical failure goes unnoticed.
 
@@ -25,16 +25,16 @@ The artifact was forged using a strict **MERN Stack** with **TypeScript**, chose
 
 ## ⚡ The Laws of the System (Business Logic)
 
-**orBIT** is not a passive tool. It actively enforces the following business rules to maintain the "Boolean Balance."
+**orBIT** is not a passive tool. It actively enforces the following business rules to maintain the "Balance."
 
 ### 1. The Ticketing Protocol (Workflow Logic)
-A ticket is a containment vessel for chaos. It must follow a strict lifecycle:
+A ticket is a containment vessel for problems encountered by users. It must follow a strict lifecycle:
 * **The Path:** `Open` → `In Progress` → `Resolved` → `Closed`.
 * **The Law of Resolution:** A ticket cannot jump from `Open` to `Closed` without a resolution note.
 * **The SLA Warning (Service Level Agreement):** If a **CRITICAL** ticket remains unresolved for more than **4 Hours**, the system visually flags it (turning red/warning icon), signaling an impending breach of the logic gate.
 
 ### 2. The Artifact Hierarchy (OOP Asset Management)
-We utilize **Polymorphism** to manage the organization's arsenal.
+I will utilize **Polymorphism** to manage the organization's arsenal.
 * **Base Class:** `Asset` (Properties: `id`, `serialNumber`, `status`).
 * **Child Classes:**
     * `Laptop` (Extends Asset + `cpu`, `ram`, `runDiagnostics()`).
@@ -50,7 +50,6 @@ This project is being constructed in specific phases to ensure structural integr
 
 ### Phase 1: The Foundation
 * **Goal:** Establish the Node.js server with TypeScript configuration (`tsconfig.json`).
-* **Status:** ✅ Complete
 * **Deliverable:** A typed environment capable of running the backend logic.
 
 ### Phase 2: The OOP Core
@@ -97,4 +96,4 @@ If you remove the decision-making capabilities of this software, the **BIT** wil
 
 ---
 
-*"We serve the Logic. The Logic protects the User."* — **The orBIT Doctrine**
+*"We serve the Logic. The Logic protects the User."* — **The orBIT Doctrine (Just call me Pert)**
