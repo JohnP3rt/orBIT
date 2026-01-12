@@ -18,5 +18,4 @@ export class Laptop extends Asset{
         console.log(`RAM: ${this.ram} GB - OK`);
         console.log(`System Status: ${this.status}`);
     }
-
 }
