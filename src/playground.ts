@@ -14,3 +14,4 @@ myLaptop.reportIssue();
 
 console.log("Attempting Assignment 2");
 myLaptop.assignToUser("honaki@nexus.com");
+
