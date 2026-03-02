@@ -1,4 +1,4 @@
-# orBIT 👁️‍🗨️
+# (In-progress) orBIT 👁️‍🗨️
 > **"If the logic fails, the BIT crashes the universe. Said by no one :)"**
 
 ## 📜 Project Overview
